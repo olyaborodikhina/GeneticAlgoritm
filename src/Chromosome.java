@@ -13,7 +13,7 @@ public class Chromosome {
     //приспособленность особи
     private double fitness;
 
-    //вероятность
+    //вероятность мутации
     private double likelihood;
 
     //setters and getters
